@@ -52,4 +52,4 @@ streamlit run app.py
 
 Here's a preview of the Question Answering System in action:
 
-![Question Answering System Screenshot](https://github.com/SahilChowkekar/Student-Performance-Indicator/blob/master/img/Screenshot.png)
+![Question Answering System Screenshot](https://github.com/SahilChowkekar/Question-Answering-System-Using-LLM/blob/master/IMG.png)
