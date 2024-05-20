@@ -47,9 +47,3 @@ To run the Application, execute the following command:
 ```bash
 streamlit run app.py
 ```
-
-## Preview of Question Answering System 
-
-Here's a preview of the Question Answering System in action:
-
-![Question Answering System Screenshot](https://github.com/SahilChowkekar/Question-Answering-System-Using-LLM/blob/master/IMG.png)
